@@ -1,0 +1,15 @@
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Response/ResponseClass.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/ExceptionHandler/DBisEmptyException.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Repository/RepositoryClass.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Service/ServiceClass.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Entity/MyGoalEntity.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/ExceptionHandler/IdNotFoundException.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/ExceptionHandler/IdAlreadyExistsException.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/MyGoalpracticeApplication.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Controller/MyGoalController.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Controller/ControllerClass.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/ServletInitializer.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Repository/MyGoalRepository.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/ExceptionHandler/ExceptionHandlerClass.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Entity/EntityClass.java
+/home/vvdn/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/APIusingMySQL/src/main/java/myGoal/Service/MyGoalService.java
